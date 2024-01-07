@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),X657B)
+ifeq ($(TARGET_DEVICE),X657B-Vendor)
 
 endif
